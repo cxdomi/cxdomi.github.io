@@ -1,7 +1,7 @@
 ---
 layout: post
-title: a post with formatting and links
-date: 2015-03-15 16:40:16
+title: Introducing Public History - ch.1-4
+date: 2024-09-16 18:00:00
 description: march & april, looking forward to summer
 tags: formatting links
 categories: sample-posts
