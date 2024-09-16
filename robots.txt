@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://cxdom.github.io/sitemap.xml
+Sitemap: https://cxdomi.github.io/sitemap.xml
