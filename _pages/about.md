@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Graduate student Master of Arts in Public History Program, War and Society Concentration, Wright State University, '26.
+subtitle: Graduate Student, Master of Arts in Public History Program, War and Society Concentration, Wright State University, '26.
 
 profile:
   align: left
@@ -15,8 +15,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The first link in the navigation bar, <a href="/projects/">Projects</a>, collects various course work from my Public History Master Program at Wright State University.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+The second link in the navigation bar, <a href="/posts/">Posts</a>, collects my musings on subjects related to the discipline of public history.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+The third link in the navigation bar, <a href="/resume/">Resume</a> contains a digital rendering of my professional resume.
+
+Below, you can find my latest posts, as well as contact information.
