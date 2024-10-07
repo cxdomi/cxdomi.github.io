@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Public History - ch.1-4
 date: 2024-09-16 18:00:00
-description: march & april, looking forward to summer
+description: 
 tags: formatting links
 categories: sample-posts
 ---
