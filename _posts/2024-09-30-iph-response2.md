@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Public History - ch. 5-8
 date: 2024-09-30 18:00:00
-description: Review over chapters 5-8 in Lyon et al.'s "Introducing Public History: Interpreting the Past" (2017)
+description: 
 tags: formatting links
 categories: sample-posts
 ---
