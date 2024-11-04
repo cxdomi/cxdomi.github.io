@@ -5,7 +5,7 @@ permalink: /
 subtitle: Graduate Student, Master of Arts in Public History Program, War and Society Concentration, Wright State University, '26.
 
 profile:
-  align: left
+  align: right
   image: pf-pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
