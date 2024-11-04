@@ -6,7 +6,7 @@ subtitle: Graduate Student, Master of Arts in Public History Program, War and So
 
 profile:
   align: left
-  image: prof_pic.jpg
+  image: pf-pic1.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
 
